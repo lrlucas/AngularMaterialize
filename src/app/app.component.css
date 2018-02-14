@@ -109,3 +109,11 @@ header nav ul.hide-on-med-and-down li {
   float: none;
   display: inline-flex;
 }
+.logonCell{
+  /*float: none;*/
+  /*position: fixed;*/
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
