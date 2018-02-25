@@ -1,7 +1,11 @@
-.material-icons{
-  font-size: 30px;
-}
+/*.material-icons{*/
+  /*font-size: 30px;*/
+/*}*/
 .centrandoTexto{
   text-align: center;
-  font-weight: 900;
+  border-bottom: 1px solid #757575;
+}
+
+.center-align{
+  background-color: #f2f2f2;;
 }
